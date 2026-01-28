@@ -1,10 +1,16 @@
-# Tactical Report
-This report will contain tactical insights.
+# Tactical Report – France vs Croatia (2018 World Cup Final)
 
-## Passing Structure
+## Objective
+To interpret spatial and structural team behaviors using event-based football data
+and translate them into actionable tactical insights.
 
-The passing network analysis highlights a hub-based circulation model,
-with central players facilitating ball progression and lateral switching.
-This structure reflects a risk-managed possession strategy.
+## Key Observations
+- France maintained central compactness during possession.
+- Passing networks revealed midfield hubs enabling controlled circulation.
+- Spatial discipline supported defensive stability and tempo control.
+
+## Tactical Implications
+These insights can assist coaching staff in understanding opponent behavior,
+optimizing build-up structures, and preparing targeted tactical adjustments.
 
 
