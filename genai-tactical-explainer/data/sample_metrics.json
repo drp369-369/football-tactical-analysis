@@ -1,0 +1,10 @@
+{
+  "team": "France",
+  "opponent": "Croatia",
+  "match": "World Cup Final 2018",
+  "key_metrics": {
+    "central_pass_percentage": 62,
+    "right_half_space_usage": "high",
+    "tempo": "controlled"
+  }
+}
